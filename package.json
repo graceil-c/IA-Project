@@ -1,0 +1,31 @@
+{
+  "name": "hand-drawing-agent",
+  "version": "1.0.0",
+  "description": "A hand-controlled drawing agent that allows users to draw on a virtual canvas using finger movements.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vite": "^2.6.4",
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.6"
+  },
+  "keywords": [
+    "drawing",
+    "hand-tracking",
+    "canvas",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
